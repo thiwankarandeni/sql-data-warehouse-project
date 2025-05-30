@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-This project presents a complete end-to-end data warehousing and analytics solution designed as a portfolio project to demonstrate key concepts and industry best practices in data engineering.
+This project presents a complete end-to-end data warehousing solution designed as a portfolio project to demonstrate key concepts and industry best practices in data engineering.
 
 ---
 ## Project Architecture
